@@ -13,6 +13,26 @@
             android:icon="@drawable/yakuza_kiwami_ps4_trophees_succes_042"
             android:title="Yakuza Games" />
         <item
+            android:id="@+id/nav_music"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Music" />
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@android:drawable/ic_menu_camera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_sensor"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Sensor" />
+        <item
+            android:id="@+id/nav_micro"
+            android:icon="@android:drawable/ic_menu_slideshow"
+            android:title="Microphone" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@android:drawable/btn_star"
+            android:title="Profile" />
+        <item
             android:id="@+id/nav_slideshow"
             android:icon="@android:drawable/ic_menu_info_details"
             android:title="info" />

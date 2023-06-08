@@ -9,5 +9,12 @@
 
     <string name="menu_home">Браузер</string>
     <string name="menu_gallery">Gameslist</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_camera">Camera</string>
+    <string name="menu_sensor">Sensor</string>
+    <string name="menu_micro">Micro</string>
+    <string name="menu_profile">Profile</string>
     <string name="menu_slideshow">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

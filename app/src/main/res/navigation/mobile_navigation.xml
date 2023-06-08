@@ -18,6 +18,36 @@
         tools:layout="@layout/fragment_gameslist" />
 
     <fragment
+        android:id="@+id/nav_music"
+        android:name="ru.mirea.pak.mireaproject.ui.music.MusicFragment"
+        android:label="@string/menu_music"
+        tools:layout="@layout/fragment_info" />
+
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.pak.mireaproject.ui.camera.CameraFragment"
+        android:label="@string/menu_camera"
+        tools:layout="@layout/fragment_camera" />
+
+    <fragment
+        android:id="@+id/nav_sensor"
+        android:name="ru.mirea.pak.mireaproject.ui.sensor.SensorFragment"
+        android:label="@string/menu_sensor"
+        tools:layout="@layout/fragment_sensor" />
+
+    <fragment
+        android:id="@+id/nav_micro"
+        android:name="ru.mirea.pak.mireaproject.ui.micro.MicroFragment"
+        android:label="@string/menu_micro"
+        tools:layout="@layout/fragment_micro" />
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="ru.mirea.pak.mireaproject.ui.profile.ProfileFragment"
+        android:label="@string/menu_profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
         android:id="@+id/nav_slideshow"
         android:name="ru.mirea.pak.mireaproject.ui.Info.InfoFragment"
         android:label="@string/menu_slideshow"
